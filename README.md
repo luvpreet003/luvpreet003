@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luvpreet003
-- 👀 I’m interested in everything about DATA. I love to play with it
-- 🌱 I’m currently learning how to perform different kind of analysis on data sets using SQL and Python libraries
+- 👀 I am a software enginer who likes to code and use it to develop solutions for different kind of problem statements
+- 🌱 I’m currently working in Magic Edtech as a Consultant with 2.5 years + experience working in technologies like C#, ASP.NET, SQL
 - 📫 How to reach me - mail me on -> luvpreetsunny@gmail.com
 
 
